@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".panca">
+
+
+    <LinearLayout
+        android:background="@drawable/pnca2"
+        android:id="@+id/panca2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:fontFamily="@font/amarante"
+            android:justificationMode="inter_word"
+            android:textStyle="bold"
+            android:layout_marginTop="180dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="                                PANCASilA \n\n\t\t Kisah lahirnya Pancasila dimulai dari pemberian janji kemerdekaan oleh Perdana Menteri Jepang, Kuniaki Koiso, untuk Indonesia. Saat itu, 7 September 1944. Dari kejadian itu, pemerintah Jepang juga mendirikan BPUPKI (Badan Penyelidik Usaha-Usaha Persiapan Kemerdekaan Indonesia) pada tanggal 1 Maret 1945.
+\n\n\t\t Saat itu BPUPKI diketuai oleh Dr. Kanjeng Raden Tumenggung (K.R.T.) Radjiman Wedyodiningrat.Saat menggelar sebuah sidang, ia bertanya dalam pidatonya kepada para anggota sidang yang terdiri dari 67 orang Indonesia dan 7 orang Jepang.
+Para anggota sidang menyampaikan segala usulannya waktu itu. \n\n\t\t Pada tanggal 29 Mei 1945, salah satu tokoh perjuangan yaitu Muhammad Yamin. Ia merumuskan pada merumuskan lima dasar sebagai berikut: Peri Kebangsaan, Peri Kemanusiaan, Peri Ketuhanan, Peri Kerakyatan, dan Kesejahteraan Rakyat.
+Dilanjutkan pada 1 Juni 1945, \n\n\t\t Soekarno dalam pidatonya mengatakan mengenai lahirnya Pancasila sebagai dasar negara. Ia juga mengucapkan nama Pancasila dalam pidatonya saat itu.
+Usulan dari  Soekarno disetujui dan diterima oleh semua peserta sidang. \n\n\t\t Hingga kini 1 Juni diperingati sebagai hari lahirnya Pancasila. Panitia kecil yang dikenal dengan panitia sembilan juga ikut andil dalam merumuskan kembali Pancasila sebagai dasar negara berdasarkan pidato Soekarno. Tak hanya itu panitia kecil juga menuliskan teks tersebut untuk memproklamasikan  Merdeka.
+Rencana yang mereka ajukan saat itu akhirnya juga disetujui pada tanggal 22 Juni 1945, dari situlah terbentuk juga Piagam Jakarta."/>
+
+    </LinearLayout>
+
+
+</ScrollView>

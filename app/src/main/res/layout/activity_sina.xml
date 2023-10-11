@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".sina">
+
+    <LinearLayout
+        android:id="@+id/sina2"
+        android:background="@drawable/bunght"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:fontFamily="@font/amarante"
+            android:justificationMode="inter_word"
+            android:textStyle="bold"
+            android:layout_marginTop="170dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="                               Bung Hatta \n\n\t\t Drs. Mohammad Hatta tang akrab dipanggil Bung Hatta lahir di Bukittinggi pada 12 Agustus 1902. Nama kecil Bung Hatta adalah Mohammad Athar, ia seorang tokaoh proklamator Indonesia, wakil presiden pertama RI, dan bapak koperasi Indonesia. Bung Hatta merupakan penggagas politik luar negeri bebas aktif, tidak berpihak kepada salah satu blok, yaitu Blok Barat dan Blok Timur. Bung Hatta meninggal pada 14 maret 1980 dan dimakamkan di Taman Pemakaman Umum Tanah Kusir, Jakarta.
+\n\n\t\t Pendidikan dasar dan menengah diperolehkan di Bukittinggi. Pada tahun 1932, Bung Hatta melanjutkan sekolahnya di Handels Hogere School (Sekolah Tinggi Ekonomi ), di Rotterdam, Belanda.
+\n\n\t\t Pada masa Pendudukan Jepang, bung Hatta bebas dari hukuman buang dan kembali ke dunia politik dengan memimpin Pusat Tenaga Rakyat (Putera) dan PPKI. Pada 17 Agustus 1945, bersama Soekarno memproklamasikan kemerdekaan Indonesia atas nama bangsa Indonesia. Pada 18 Agustus 1945, ia menjadi Wakil presiden pertama RI. Pada masa perang kemerdekaan, ia diangkat menjadi perdana menteri merangkap Menteri Pertahanan. Pada 1 Desember 1956, Ia mengundurkan diri dar Wakil Presiden.\n\n\t\t Perjuangan di Jalur Politik
+Ketika di Belanda, Bung Hatta juga aktif di jalur politik dengan menjadi ketua Perhimpunan Indonesia (PI), Organisasi pelajar Indonesia di Belanda yang berjuang mencapai kemerdekaan.
+Dalam kongres internasional, Bung Hatta memperkenalkan perjangan Indonesia melawan Belanda. Pada tahun 1932,Bung Hatta kembali ke Indonesia dan mendirikan Partai Nasional Indonesia Baru (PNI-Baru) bersama Sutan Syahrir."/>
+
+    </LinearLayout>
+
+</androidx.core.widget.NestedScrollView>

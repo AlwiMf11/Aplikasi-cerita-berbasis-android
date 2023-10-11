@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Project/daftarcerita/app/src/main/res/layout/activity_benderain.xml" value="0.25" />
+        <entry key="..\:/Project/daftarcerita/app/src/main/res/layout/activity_chengho.xml" value="0.26875" />
+        <entry key="..\:/Project/daftarcerita/app/src/main/res/layout/activity_imam.xml" value="0.26875" />
+        <entry key="..\:/Project/daftarcerita/app/src/main/res/layout/activity_knc1.xml" value="0.26875" />
+        <entry key="..\:/Project/daftarcerita/app/src/main/res/layout/activity_main.xml" value="0.15" />
+        <entry key="..\:/Project/daftarcerita/app/src/main/res/layout/activity_malin1.xml" value="0.26875" />
+        <entry key="..\:/Project/daftarcerita/app/src/main/res/layout/activity_panca.xml" value="0.17586206896551723" />
+        <entry key="..\:/Project/daftarcerita/app/src/main/res/layout/activity_proklal.xml" value="0.26875" />
+        <entry key="..\:/Project/daftarcerita/app/src/main/res/layout/activity_quiz.xml" value="0.3625" />
+        <entry key="..\:/Project/daftarcerita/app/src/main/res/layout/activity_sina.xml" value="0.26875" />
+        <entry key="..\:/Project/daftarcerita/app/src/main/res/layout/activity_splas.xml" value="0.1" />
+        <entry key="..\:/Project/daftarcerita/app/src/main/res/layout/activity_timun1.xml" value="0.26875" />
+        <entry key="..\:/Project/daftarcerita/app/src/main/res/layout/activity_toba1.xml" value="0.26875" />
+        <entry key="..\:/Project/daftarcerita/app/src/main/res/layout/activity_uud.xml" value="0.26875" />
+        <entry key="..\:/Project/daftarcerita/app/src/main/res/layout/activity_wali9.xml" value="0.26875" />
+        <entry key="..\:/daftarcerita/app/src/main/res/layout/activity_benderain.xml" value="0.1796875" />
+        <entry key="..\:/daftarcerita/app/src/main/res/layout/activity_chengho.xml" value="0.1796875" />
+        <entry key="..\:/daftarcerita/app/src/main/res/layout/activity_imam.xml" value="0.1796875" />
+        <entry key="..\:/daftarcerita/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/daftarcerita/app/src/main/res/layout/activity_malin1.xml" value="0.1796875" />
+        <entry key="..\:/daftarcerita/app/src/main/res/layout/activity_panca.xml" value="0.1796875" />
+        <entry key="..\:/daftarcerita/app/src/main/res/layout/activity_quiz.xml" value="0.3333333333333333" />
+        <entry key="..\:/daftarcerita/app/src/main/res/layout/activity_quiz1.xml" value="0.1796875" />
+        <entry key="..\:/daftarcerita/app/src/main/res/layout/activity_quiz3.xml" value="0.1796875" />
+        <entry key="..\:/daftarcerita/app/src/main/res/layout/activity_quiz4.xml" value="0.1796875" />
+        <entry key="..\:/daftarcerita/app/src/main/res/layout/activity_toba1.xml" value="0.1796875" />
+        <entry key="..\:/daftarcerita/app/src/main/res/layout/activity_utama.xml" value="0.1796875" />
+        <entry key="..\:/daftarcerita/app/src/main/res/layout/activity_wali9.xml" value="0.1796875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

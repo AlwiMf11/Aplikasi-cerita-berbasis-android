@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/kncil2"
+    tools:context=".knc1">
+
+
+        <TextView
+            android:fontFamily="@font/amarante"
+            android:justificationMode="inter_word"
+            android:textStyle="bold"
+            android:layout_marginTop="130dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="\n                         KANCIL YANG BIjAK
+            \n\n\t\t Di sebuah hutan, hiduplah seekor Kancil yang besar dan gemuk. Kancil itu dikenal sangat baik dan suka menolong oleh hewan-hewan lainya. Selain itu Kancil juga hewan yang cerdik. Kancil selalu membantu dan menolong temannya yang akan menyeberangi danau, karena Danau itu dijaga oleh seekor buaya yang sangat besar dan rakus.
+
+Pada suatu hari, saat Kancil pergi untuk mencari makan. Tiba-tiba Kancil mendengar temannya minta tolong di sekitar danau.
+\n\n\t\tLalu Kancil berlari cepat menghampiri temannya. Ternyata lagi-lagi Buaya itu tidak memperbolehkan hewan lain masuk ke wilayahnya, dan selalu mengancam siapapun yang masuk ke wilayahnya akan dimakan.
+
+Tiba-tiba Kancil melihat ikan kecil di tepi Danau. \n\n\t\tLalu Kancil mengambil ikan kecil itu tanpa sadarnya buaya. Lalu, Kancil melempari ikan-ikan kecil itu kepada buaya agar buaya itu memakan ikan kecil itu dan tidak sadar bahwa Kancil dan temannya menyeberangi Danau itu melewati punggung Buaya. Lalu Kancil mengantarkan temannya mencari makan.
+
+Teman-teman Kancil bangga memiliki teman yang bijaksana. Teman kancil yang di tolong tadi berterima kasih kepada Kancil, sampai akhirnya Kancil di juluki Kancil yang bijaksana."/>
+
+</ScrollView>

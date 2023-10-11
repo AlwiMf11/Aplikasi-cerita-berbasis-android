@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".toba1">
+    <LinearLayout
+        android:id="@+id/toba2"
+        android:background="@drawable/tobafix"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:textStyle="bold"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:layout_marginTop="200dp"
+            android:layout_marginRight="30dp"
+            android:fontFamily="@font/amarante"
+            android:justificationMode="inter_word"
+            android:text="                              DANAU TOBA \n\n\t\tToba adalah nama seorang pemuda. Suatu ketika dia sedang memancing, dia mendapatkan seekor ikan mas besar. Lalu, berencana untuk menggorengnya. Namun, Toba begitu terkejut ketika melihat ikan tersebut berbicara dan berubah sosok menjadi perempuan.\n\n\t\t
+
+Rupaya ikan tersebut adalah penjelmaan dari seorang putri yang dikutuk. Karena telah dibebaskan dari kutukan, sang putri pun bersedia menjadi istri dari Toba, tetapi dengan syarat harus merahasiakan asal-usul perempuan tersebut. Toba pun menyanggupinya. Singkat cerita, mereka menikah dan memiliki seorang anak laki-laki bernama Samosir.\n\n\t\t Suatu hari, sang ibu meminta Samosir untuk mengantarkan makanan ke tempat ayahnya bekerja di ladang. Namun, makanan tersebut justru dimakan olehnya. Sang ayah yang mengetahui hal tersebut begitu marah dan kesal hingga secara tak sengaja berucap “Dasar kau anak ikan!”
+
+Toba telah melanggar janjinya yang ia buat dengan sang istri. \n\n\t\t Sang istri pun kecewa dan menangis, lalu menyuruh Samosir lari ke bukit yang tinggi. Tiba-tiba bencana pun terjadi. Gempa melanda, hujan turun sangat lebat, hingga air sungai meluap dan menenggelamkan seluruh desa tempat tinggal Toba. Toba pun tersadar dan menyesal. Umpatannya telah membuka rahasia yang seharusnya ia tutup rapat.
+
+\n\n\t\t Lalu desa yang sudah tenggelam pun berubah menjadi danau yang sekarang disebut Danau Toba. Adapun sang anak, selamat karena telah mendaki bukit tinggi di tengah danau, yang kemudin juga dikenal sebagai Pulau Samosir."
+            />
+    </LinearLayout>
+
+</ScrollView>

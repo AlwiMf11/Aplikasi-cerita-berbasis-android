@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".chengho">
+
+    <LinearLayout
+        android:background="@drawable/mansu"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:fontFamily="@font/amarante"
+            android:justificationMode="inter_word"
+            android:textStyle="bold"
+            android:layout_marginTop="175dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="                         JENDRAL SUDIRMAN \n\n\t\t Sudirman (Soedirman) lahir di Purbalingga, Jawa Tengah pada tanggal 24 Januari 1916. Ayahnya Karsid Kartawiraji merupakan seorang pekerja di pabrik gula Kalibagor Banyumas dan ibunya Siyem merupakan keturunan Wedana Rembang. \n\n\t\t Pasca Indonesia merdeka dari penjajahan Jepang, ia berhasil merebut senjata pasukan Jepang di Banyumas. Kemudian beliau diangkat menjadi Komandan Batalyon di Kroya setelah menyelesaikan pendidikannya.Pada 18 Desember 1945, Sudirman resmi diangkat menjadi panglima besar TKR setelah penarikan tentara Inggris lantaran diserang sejumlah pasukan yang diperintahkan.\n\n\t\t Sang Jenderal menjadi saksi kegagalan negosiasi dalam Perjanjian Linggarjati dan Perjanjian Renville dengan tentara kolonial Belanda yang ingin kembali menjajah Indonesia. Sudirman juga menghadapi upaya kudeta tahta kepemimpinan pada 1948.
+
+Pada Desember 1948 Sudirman melakukan perlawanan terhadap Agresi Militer II Belanda yang terjadi di Yogyakarta. \n\n\t\t Beserta sekelompok kecil tentara dan dokter pribadinya, Jenderal Sudirman melakukan perjalanan ke arah selatan dan memulai perlawanan gerilya selama tujuh bulan.
+
+Hingga akhirnya Belanda mulai menarik diri, Jenderal Sudirman dipanggil kembali ke Yogyakarta pada bulan Juli 1949 oleh Presiden Soekarno.\n\n\t\t Pada 1948 Sudirman didiagnosis mengidap tuberkulosis (TBC).Selang sebulan, tepatnya pada 18.30 tanggal 29 Januari 1950 Jenderal Sudirman wafat di Magelang, Jawa Tengah. Kabar duka ini dilaporkan dalam sebuah siaran khusus di RRI.
+
+Jenazah Sudirman disemayamkan di Masjid Gedhe Kauman pada sore hari. Jenazah Sudirman kemudian dibawa ke Taman Makam Pahlawan Semaki dengan berjalan kaki, sementara kerumunan pelayat sepanjang 2 kilometer mengiringi di belakang."/>
+
+    </LinearLayout>
+
+</ScrollView>

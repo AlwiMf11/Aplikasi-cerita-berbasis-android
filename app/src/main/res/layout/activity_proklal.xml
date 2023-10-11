@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".proklal">
+
+    <LinearLayout
+        android:id="@+id/prok2"
+        android:background="@drawable/proklamasi1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:fontFamily="@font/amarante"
+            android:justificationMode="inter_word"
+            android:textStyle="bold"
+            android:layout_marginTop="190dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="              Proklamasi Kemerdekaan Indonesia
+            \n\n\t\t Proklamasi Kemerdekaan Indonesia diawali dengan peristiwa dijatuhkannya bom atom di kota Hiroshima pada tanggal 6 Agustus 1945 dan Nagasaki pada 9 Agustus 1945 oleh tentara Amerika. Hal ini menyebabkan Jepang menyerah tanpa syarat pada sekutu, sehingga kesempatan ini dimanfaatkan oleh para pejuang kemerdekaan untuk memproklamasikan kemerdekan.
+
+\n\n\t\t Dalam pelaksanaannya, ada perbedaan pendapat antara golongan tua dan golongan muda. Golongan muda ingin proklamasi kemerdekaan segera dilakukan sedangkan golongan tua tidak ingin terburu-buru dalam proklamasi kemerdekaan karena takut akan terjadi pertumpahan darah. Golongan tua terdiri dari Ir. Soekarno, Mohammad Hatta, Achmad Soebardjo, Mohammad Yamin, Iwa Kusuma, dan Dr. Syamsi.
+\n\n\t\t Golongan muda yang berjuang untuk kemerdekaan Indonesia diantaranya Sukarni, Wikana, Adam Malik, Chaerul Saleh, Darwis, dan Jusuf Kunto.
+Pada 16 Agustus 1945 terjadi peristiwa Rengasdengklok, dimana Ir. Soekarno dan Mohammad Hatta diculik oleh para pemuda dan dibawa ke Rengasdengklok dengan tujuan agar Ir. Soekarno dan Moh Hatta tidak terpengaruh oleh Jepang dan segera menyatakan kemerdekaan.
+\n\n\t\t Pada 16 Agustus 1945 pukul 23.00 malam, Ir. Soekarno dan rombongannya tiba di Jakarta, sehingga perumusan teks proklamasi dilakukan oleh Ir. Soekarno, Moh Hatta dan Achmad Soebardjo di kediaman Laksamana Muda Maeda Tadashi. Rumusan teks proklamasi diketik oleh Sayuti Melik dan ditandatangani Ir. Soekarno dan Moh Hatta."/>
+
+    </LinearLayout>
+</ScrollView>

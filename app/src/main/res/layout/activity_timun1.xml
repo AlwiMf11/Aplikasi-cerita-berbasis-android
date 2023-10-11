@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".timun1">
+    <LinearLayout
+        android:id="@+id/timun2"
+        android:background="@drawable/tix3"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:textStyle="bold"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:layout_marginTop="200dp"
+            android:layout_marginRight="30dp"
+            android:fontFamily="@font/amarante"
+            android:justificationMode="inter_word"
+            android:text="                              TIMUN MAS \n\n\t\tMbok Sirni adalah seorang janda yang menginginkan seorang anak. Suatu hari ia didatangi oleh raksasa yang ingin memberi seorang anak dengan syarat apabila anak itu dewasa harus diserahkan ke raksasa itu untuk disantap.
+            \n\n\t\tMbok Sirni yang setuju akhirnya menerima biji mentimun dari raksasa yang kemudian ditanam dan dirawat. Setelah dua minggu diantara buah ketimun yang ditanamnya ada satu yang paling besar dan berkilau seperti emas. \n\n\t\tDengan hati-hati Mbok Sirni membelah buah dan ternyata di dalamnya terdapat seorang bayi cantik yang kemudian diberi nama timun emas.Semakin hari timun emas tumbuh menjadi gadis jelita. Suatu hari datanglah raksasa untuk menagih janji.\n\n\t\t
+Raksasapun mengejarnya. Timun emaspun kemudian menebarkan biji timun ajaib yang menjadi ladang mentimun yang lebat buahnya. Raksasapun memakannya tapi buah timun itu malah menambah tenaga raksasa. Lalu timun emas menaburkan jarum, \n\n\t\tdalam sekejap tumbuhlan pohon-pohon bambu yang sangat tinggi dan tajam sehingga kaki raksasa menjadi berdarah-darah. Timun emaspun membuka bingkisan garam dan ditaburkannya. \n\n\t\tDalam Seketika hutanpun menjadi lautan luas sehingga raksasa dengan kakinya yang luka menjadi kesakitan saat melewatinya. Yang terakhit Timun Emas akhirnya menaburkan terasi, seketika terbentuklah lautan lumpur yang mendidih, akhirnya raksasapun mati. Akhirnya Timun Emas dan Mbok Sirni hidup bahagia dan damai."/>
+    </LinearLayout>
+
+
+</ScrollView>

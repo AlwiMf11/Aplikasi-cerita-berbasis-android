@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".wali9">
+
+    <LinearLayout
+        android:id="@+id/wali2"
+        android:background="@drawable/soekarno"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:fontFamily="@font/amarante"
+            android:justificationMode="inter_word"
+            android:textStyle="bold"
+            android:layout_marginTop="170dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="                              Ir. Soekarno \n\n\t\t Ir. Soekarno adalah presiden pertama Republik Indonesia,sekaligus tokoh proklamator negara ini. Soekarno akrab dipanggil dengan julukan Bung Karno. Bung Karno juga dikenal sebagai Putra Sang Fajar karena lahir saat fajar menyingsing.Bung Karno lahir di Surabaya, 6 Juni 1901 dan meninggal di Jakarta, 21 Juni 1970.
+
+\n\n\t\t Perjuangan Soekarno cukup panjang sebelum akhirnya mampu menyatakan kemerdekaan Indonesia. Tepat pada tanggal 17 Agustus 1945, bersama Mohammad Hatta dan beberapa tokoh lainnya, beliau menyatakan kemerdekaan bangsa.Dilansir dari laman RRI, Soekarno sebelumnya sudah mengemukakan dasar negara, Pancasila, pada sidang BPUPKI 1 Juni 1945. Dasar ini kemudian menjadi dasar negara Indonesia. \n\n\t\t Kiprah Bung Karno tidak berhenti di lingkup negara Indonesia saja. Bung Karno tercatat berusaha menghimpun bangsa-bangsa untuk membuat Gerakan Non Blok. Gerakan ini beranggotakan bangsa-bangsa di Asia, Afrika, dan Amerika Latin. Gerakan ini merupakan hasil dari Konferensi Asia Afrika pada 1955 di Bandung. \n\n\t\t Bersumber dari laman Kepustakaan Presiden-Presiden Republik Indonesia, Bung Karno memiliki 3 orang istri selama hidupnya. Dari ketiga istrinya, Soekarno dikarunia 8 orang anak. Fatmawati, istri pertama Bung Karno, melahirkan Guntur, Megawati, Rachmawati, Sukmawati, dan Guruh. Taufan dan Bayu adalah putra Soekarno dari Hartini. Ratna Sari Dewi, istri Soekarno berdarah Jepang, memiliki anak bernama Kartika. Bung Karno menyerahkan jabatannya sebagai presiden Indonesia setelah terjadi gejolak politik. Gejolak ini disebabkan oleh pemberontakan G-30-S/PKI yang menewaskan banyak perwira TNI.  Soekarno wafat di RSPAD tanggal 21 Juni 1970 karena sakit yang terus memburuk. Beliau dimakamkan di Blitar, dekat dengan makam sang ibunda, Ida Ayu Nyoman Rai. "/>
+
+    </LinearLayout>
+
+</ScrollView>

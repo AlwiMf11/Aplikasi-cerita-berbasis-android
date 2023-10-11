@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".imam">
+
+    <LinearLayout
+        android:background="@drawable/kartini"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:fontFamily="@font/amarante"
+            android:justificationMode="inter_word"
+            android:textStyle="bold"
+            android:layout_marginTop="170dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="                                RA Kartini \n\n\t\t RA Kartini lahir pada tanggal 21 April tahun 1879 di Kota Jepara. Nama lengkap Kartini adalah Raden Ajeng Kartini Djojo Adhiningrat. Mengenai sejarah RA Kartini dan kisah hidup Kartini, ia lahir di tengah-tengah keluarga bangsawan oleh sebab itu ia memperoleh gelar R.A (Raden Ajeng) di depan namanya. Ayahnya bernama Raden Mas Adipati Ario Sosroningrat yang merupakan bupati Jepara saat itu. Sementara,
+ ibunya bernama M.A. Ngasirah yang juga merupakan keturunan dari tokoh agama di Jepara yang disegani saat itu , Kyai Haji Madirono.
+\n\n\t\t Karena terlahir sebagai anak bupati, tentu hidup Kartini tercukupi secara materi. Ia bahkan berhasil menyelesaikan sekolah di ELS (Europese Lagere School).
+Padahal pada masa itu, banyak anak-anak seusia Kartini yang tidak bisa bersekolah. Sayangnya setelah menikah dan melahirkan anak pertamanya, Kartini meninggal pada 17 September 1904 dalam usia 24 tahun.
+
+\n\n\t\t Setelah Kartini meninggal, barulah pemikiran Kartini tentang perempuan di Indonesia mulai banyak menjadi pembicaraan. J.H. Abendanon yang ketika itu menjabat sebagai Menteri Kebudayaan,
+Agama dan Kerajinan Hindia Belanda mulai mengumpulkan surat-surat yang pernah ditulis oleh R.A Kartini ketika ia aktif melakukan korespondensi dengan teman-temannya yang berada di Eropa.
+\n\n\t\t Akhirnya disusunlah buku yang awalnya berjudul 'Door Duisternis tot Licht' yang kemudian diterjemahkan dengan judul Dari Kegelapan Menuju Cahaya yang terbit pada tahun 1911.
+Buku ini kemudian banyak mengubah pemikiran masyarakat Belanda tentang wanita pribumi. Inilah yang akhirnya membuat Kartini diabadikan sebagai salah satu Pahlawan Nasional yang dikenal memperjuangkan hak wanita.
+"/>
+
+    </LinearLayout>
+
+</ScrollView>

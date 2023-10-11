@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".uud">
+
+    <LinearLayout
+        android:id="@+id/uud2"
+        android:background="@drawable/nusa"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:fontFamily="@font/amarante"
+            android:justificationMode="inter_word"
+            android:textStyle="bold"
+            android:layout_marginTop="175dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="                              NUSANTARA \n\n\t\tNusantara adalah istilah yang kerap digunakan untuk menyebut Indonesia. Nama ini berasal jauh sebelum Indonesia ada. Dikutip dari Perundang-undangan Madjapahit (1967), nama Nusantara lahir di masa Kerajaan Majapahit di sekitar abad ke-14. \n\n\t\t kawasan Nusantara terdiri dari gugusan atau rangkaian pulau yang terdapat di antara benua Asia dan Australia, bahkan termasuk Semenanjung Malaya.  Wilayah itu dikategorikan Majapahit sebagai Nusantara. Nusantara tercatat diucapkan oleh Gajah Mada, patih Majapahit. Gajah Mada mengucapkannya lewat sumpah yang dikenal sebagai Sumpah Palapa. \n\n\t\t Sumpah itu diucapkannya saat upacara pengangkatan menjadi Patih Amangkubumi Majapahit. Sumpah Palapa berbunyi Lamun huwus kalah Nusantara isun amukti palapa, lamun kalah ring gurun, ring Seran, Tanjung Pura, ring Haru, ring Pahang, Dompo, ring Bali, Sunda, Palembang, Tumasik, Samana isun amukti palapa.  Sebagian Jawa (Jawa Tengah dan Jawa Timur) justru waktu itu tak termasuk dalam istilah Nusantara yang dimaksud Gajah Mada. \n\n\t\t Ini karena kerajaan-kerajaan di tanah Jawa sudah berada langsung di bawah pemerintahan Majapahit. Saat itu, ada tujuh kerajaan di Pulau Jawa yang memberlakukan aturan Majapahit. Tujuh kerajaan itu yakni Singasari, Daha, Kahuripan, Lasem, Matahun, Wengker, dan Pajang. Oleh karena itu, Nusantara digunakan untuk menyebut daerah di luar Majapahit yang perlu ditaklukkan. Baca juga: 5 Fakta Sejarah Majapahit, Kerajaan Terbesar di Nusantara Nusantara terdiri dari kata nusa yang artinya pulau, yakni pulau-pulau, dan antara yang berarti lain atau seberang. Setelah Majapahit bubar, istilah Nusantara terlupakan. Nusantara baru kembali digunakan di abad ke-20. Tokoh pendidikan nasional pendiri Taman Siswa, Ki Hajar Dewantara, Hingga kini."/>
+
+    </LinearLayout>
+
+</ScrollView>

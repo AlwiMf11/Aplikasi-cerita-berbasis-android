@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".benderain"
+    android:background="@drawable/bendera">
+
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <TextView
+            android:fontFamily="@font/amarante"
+            android:justificationMode="inter_word"
+            android:textStyle="bold"
+            android:layout_marginTop="160dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="                      BENDERA MERAH PUTIH \n\n\t\tada abad ke-13, bendera Sang Saka Merah Putih digunakan Kerajaan Majapahit, Kerajaan Kediri, dan Kerajaan Bugis Bone.\n\n\t\t Bendera tersebut digunakan sebagai lambang kebesaran dan panji kerajaan mereka.Kemudian, pada 1928, bendera Sang Saka Merah Putih digunakan para pelajar, pemuda, dan kaum nasionalis, sebagai semangat juang melawan para penjajah Belanda
+Untuk pertama kalinya, bendera Sang Saka Merah Putih dikibarkan saat Proklamasi Kemerdekaan Indonesia pada 17 Agustus 1945. \n\n\t\tBendera Merah Putih yang digunakan pada saat upacara Pendeklarasian Negara Indonesia dijahit oleh ibu Fatmawati pasca kembalinya dari masa pengasingan di Bengkulu.
+
+Kala itu, \n\n\t\tBendera Merah Putih dijadikan sebagai bendera nasional, setelah perang dunia kedua berakhir dan Indonesia merdeka.Makna dari warna merah adalah berani atau keberanian manusia. Selain itu, warna merah juga melambangkan sebagai warna dasar tubuh manusia, di mana sejak lahir dialiri darah.
+
+Sementara, warna putih memiliki makna kesucian, yang menggambarkan warna roh manusia yang bersih"/>
+
+
+
+    </LinearLayout>
+
+</ScrollView>

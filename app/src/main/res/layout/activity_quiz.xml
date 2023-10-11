@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_gravity="center"
+        android:layout_marginTop="40dp"
+        android:gravity="center"
+        android:textColor="#fff"
+        android:textSize="20dp"
+        android:background="#512DA8"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:fontFamily="@font/amarante"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:text="Siapa Pahlawan Wanita Yang berasal dari jepara?"/>
+
+
+
+    <EditText
+
+        android:id="@+id/et_input"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:textColor="#fff"
+        android:layout_width="match_parent"
+        android:layout_height="10dp"/>
+    <LinearLayout
+        android:layout_marginTop="70dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:layout_marginLeft="20dp"
+            android:background="@drawable/rakartini"
+            android:layout_width="150dp"
+            android:layout_height="130dp"/>
+        <RelativeLayout
+            android:layout_width="30dp"
+            android:layout_height="20dp"/>
+        <ImageView
+            android:layout_marginRight="20dp"
+            android:background="@drawable/sudir"
+            android:layout_width="150dp"
+            android:layout_height="130dp"/>
+
+
+
+
+
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:fontFamily="@font/amarante"
+            android:layout_marginLeft="30dp"
+            android:text="Ra Kartini"
+            android:id="@+id/bt_show"
+            android:layout_width="150dp"
+            android:layout_height="50dp"/>
+        <RelativeLayout
+            android:layout_width="20dp"
+            android:layout_height="20dp"/>
+        <Button
+            android:fontFamily="@font/amarante"
+            android:text="Sudirman"
+            android:id="@+id/bt_show1"
+            android:layout_width="150dp"
+            android:layout_height="50dp"/>
+
+    </LinearLayout>
+    <RelativeLayout
+        android:layout_width="30dp"
+        android:layout_height="20dp"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:layout_marginLeft="20dp"
+            android:background="@drawable/soekar"
+            android:layout_width="150dp"
+            android:layout_height="130dp"/>
+        <RelativeLayout
+            android:layout_width="30dp"
+            android:layout_height="20dp"/>
+
+        <ImageView
+            android:layout_marginRight="20dp"
+            android:background="@drawable/bung"
+            android:layout_width="150dp"
+            android:layout_height="130dp"/>
+
+
+
+
+
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+
+        <Button
+            android:fontFamily="@font/amarante"
+            android:layout_marginLeft="30dp"
+            android:text="Ir soekarno"
+            android:id="@+id/bt_show2"
+            android:layout_width="150dp"
+            android:layout_height="50dp"/>
+        <RelativeLayout
+            android:layout_width="20dp"
+            android:layout_height="20dp"/>
+        <Button
+            android:text="bung hatta"
+            android:id="@+id/bt_show3"
+            android:layout_width="150dp"
+            android:layout_height="50dp"/>
+
+    </LinearLayout>
+
+
+</LinearLayout>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".quiz4">
+
+    <LinearLayout
+        android:layout_marginTop="150dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:background="#C746FD"
+        android:layout_width="match_parent"
+        android:layout_height="100dp">
+        <TextView
+            android:textColor="#fff"
+            android:fontFamily="@font/amarante"
+            android:gravity="center"
+            android:textSize="40dp"
+            android:layout_gravity="center"
+            android:textStyle="bold"
+            android:text="Congratulation"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:background="#FBF9F1"
+        android:layout_width="match_parent"
+        android:layout_height="200dp">
+        <TextView
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:fontFamily="@font/amarante"
+            android:gravity="center"
+            android:textSize="40dp"
+            android:layout_gravity="center"
+            android:textStyle="bold"
+            android:text="\t\tYou Have : \n\n 100 Point"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_marginTop="50dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginLeft="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="130dp">
+        <TextView
+            android:id="@+id/exit"
+            android:layout_marginLeft="250dp"
+        android:background="@drawable/exit"
+            android:layout_gravity="center"
+            android:layout_width="80dp"
+            android:layout_height="80dp"/>
+
+    </LinearLayout>
+
+</LinearLayout>
